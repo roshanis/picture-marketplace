@@ -12,7 +12,7 @@ Modern web application built with React and TypeScript, featuring calendar funct
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/projectname.git
+git clone [https://github.com/yourusername/projectname.git](https://github.com/roshanis/picture-marketplace)
 ```
 
 2. Install dependencies:
